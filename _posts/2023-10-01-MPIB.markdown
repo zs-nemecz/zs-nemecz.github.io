@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Research stay at the MPI for Human Development, Berlin"
+date:   2023-10-01 11:07:04 +0100
+categories: jekyll update
+---
+I'm starting a 7-month long research stay at the Lifespan Psychology Center of the Max Planck Institute for Human Development, Berlin. 
