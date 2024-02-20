@@ -1,1 +1,1 @@
-# Hello World, this is the website of Zsuzsanna Nemecz.
+# Personal website created with Jekyll.

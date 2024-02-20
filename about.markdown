@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Zsuzsanna Nemecz, a PhD student researching memory and its underlying neuronal computations. I use structural and functional magnetic resonace imaging (MRI), as well as behavioral methods, to study how humans create and sometimes fail to create detailed memories of the myriads of events they experience. I'm interested in finding out how memory changes over the lifespan, especially in old age, and what we can do to promote the maintanance of memory function.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I'm not studying the brain, I like to go hiking, watch a movie in a cinema, or boulder. But most of all, I like spending time with my family. I have a 19-month-old daughter, who is a constant inspiration for anything I do.   
